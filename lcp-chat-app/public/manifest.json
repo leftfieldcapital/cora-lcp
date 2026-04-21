@@ -1,0 +1,25 @@
+{
+  "name": "Cora by LCP",
+  "short_name": "Cora",
+  "description": "Leftfield Capital Partners AI Assistant — Monday.com connected",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1e2c",
+  "theme_color": "#0d1e2c",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"]
+}
